@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HotVendingMachine implements VendingMachine{
-    List<HotDrink> drinks = new ArrayList<>();
+    private List<HotDrink> drinks = new ArrayList<>();
     public Drink getProduct(String name, int volume, int temperature) {
         for (HotDrink drink : drinks) {
             if (drink.getName() == name && drink.getVolume() == volume && drink.getTemperature() == temperature) {
