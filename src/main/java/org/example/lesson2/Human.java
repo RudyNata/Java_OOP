@@ -9,9 +9,17 @@ public class Human extends Actor {
     public void setTakeOrder() {
         isTakeOrder = true;
     }
+    public void setName(String name) {
+        this.name = name;
+    }
     @Override
     public String getName() {
-
-        return null;
+        return name;
+    }
+    public boolean isMakeOrder() {
+        return isMakeOrder;
+    }
+    public boolean isTakeOrder() {
+        return isTakeOrder;
     }
 }
