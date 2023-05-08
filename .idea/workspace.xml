@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76af2df4-fda8-4b78-9343-7ddfbf3aa889" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/HomeWork2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homeWork3/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork3/HomeWork3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson2/ActorBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson2/ActorBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson2/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson2/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson2/lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson2/lesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson3/lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/lesson3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -40,50 +35,32 @@
     </option>
   </component>
   <component name="ProjectId" id="2ObhR60GJtjxMlFFflviKdvyZTj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ivanp/Desktop/Programming/Java/Java_problem/Java_OOP/src/main/java/org/example/homeWork5",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivanp\Desktop\Programming\Java\Java_problem\Java_OOP\src\main\java\org\example\homeWork5" />
+      <recent name="C:\Users\ivanp\Desktop\Programming\Java\Java_problem\Java_OOP\src\main\java\org\example\homeWork4" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.homeWork4" />
       <recent name="org.example.homeWork3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeWork3">
-    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.homeWork1.HomeWork1" />
-      <module name="Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.homeWork1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.homeWork2.HomeWork2" />
-      <module name="Java_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.homeWork2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.org.example.homeWork5.view.UserView">
     <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.homeWork3.HomeWork3" />
       <module name="Java_OOP" />
@@ -97,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lesson2.lesson2" />
+    <configuration name="HomeWork4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.homeWork4.HomeWork4" />
       <module name="Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lesson2.*" />
+          <option name="PATTERN" value="org.example.homeWork4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +87,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lesson3.lesson3" />
+    <configuration name="UserView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson5.view.UserView" />
       <module name="Java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lesson3.*" />
+          <option name="PATTERN" value="org.example.lesson5.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.lesson4" />
+      <module name="Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.homeWork5.view.UserView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.homeWork5.view.UserView" />
+      <module name="Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.homeWork5.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.homeWork5.view.UserView" />
+        <item itemvalue="Application.UserView" />
+        <item itemvalue="Application.HomeWork4" />
+        <item itemvalue="Application.lesson4" />
         <item itemvalue="Application.HomeWork3" />
-        <item itemvalue="Application.lesson3" />
-        <item itemvalue="Application.HomeWork2" />
-        <item itemvalue="Application.lesson2" />
-        <item itemvalue="Application.HomeWork1" />
       </list>
     </recent_temporary>
   </component>
